@@ -32,11 +32,8 @@ The Society of Thoracic Radiology (STR) was founded in 1982. The STR is dedicate
 
 
 
-Submission Format:
 
-id,label df06fad17bc3_negative_exam_for_pe,0.5 df06fad17bc3_rv_lv_ratio_gte_1,0.5 df06fad17bc3_rv_lv_ratio_lt_1,0.5 df06fad17bc3_leftsided_pe,0.5 df06fad17bc3_chronic_pe,0.5 df06fad17bc3_rightsided_pe,0.5 df06fad17bc3_acute_and_chronic_pe,0.5 df06fad17bc3_central_pe,0.5 df06fad17bc3_indeterminate,0.5 eb3cbf4180b5,0.5 57b93aeb1b16,0.5 ca48991fcad3,0.5 c72c1f5763d4,0.5 26c67856a1e9,0.5 3c64e5645222,0.5 d3e59334bba4,0.5 be315623c913,0.5 74941ba7b035,0.5 70589c8529fb,0.5 etc.
-
-
+<img width="744" height="247" alt="Screenshot 2025-11-06 at 11 44 07 PM" src="https://github.com/user-attachments/assets/96c9f88f-2a1f-487e-874b-01cc317f66cd" />
 
 
 
