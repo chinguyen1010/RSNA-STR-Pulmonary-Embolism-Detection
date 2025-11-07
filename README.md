@@ -82,8 +82,11 @@ Henrique Carrete Junior, MD PhD
 Ernandez Santos, BIT
 
 <img width="764" height="513" alt="Screenshot 2025-11-06 at 11 41 18 PM" src="https://github.com/user-attachments/assets/9c80a6aa-34ad-4de7-b56b-f95c23fa283b" />
-
 <img width="735" height="320" alt="Screenshot 2025-11-06 at 11 41 32 PM" src="https://github.com/user-attachments/assets/9e994f91-1c45-4133-8f04-4ec1da84dc12" />
+
+
+
+
 
 Data Resource Paper:
 
