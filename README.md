@@ -90,8 +90,6 @@ Ernandez Santos, BIT
 
 Data Resource Paper:
 
-Please cite this data resource paper if you plan to use this dataset.
-
 Colak E, Kitamura FC, Hobbs SB, Wu CC, Lungren MP, Prevedello LM, Kalpathy-Cramer J, Ball RL, Shih G, Stein A, Halabi SS, Altinmakas E, Law M, Kumar P, Manzalawi KA, Rubio DCN, Sechrist JW, Germaine P, Lopez EC, Amerio T, Gupta P, Jain M, Kay FU, Lin CT, Sen S, Revels JW, Brussaard CC, Mongan J, The RSNA-STR Annotators and Dataset Curation Contributors. The RSNA pulmonary embolism CT dataset. Radiology: Artificial Intelligence. 2021 Jan 20;3(2):e200254. URL: https://pubs.rsna.org/doi/full/10.1148/ryai.2021200254
 
 Citation:
